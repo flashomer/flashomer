@@ -27,10 +27,44 @@ A Computer Engineer focused on building user-centric, scalable web and mobile so
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://flashomer-readme-stats-gs1n.vercel.app/api?username=flashomer&theme=vue&show_icons=true" />
-  <img height="180em" src="https://flashomer-readme-stats-gs1n.vercel.app/api/top-langs/?username=flashomer&theme=vue&layout=compact&1" />
-</a>
+<p align="center">
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/stats.svg" />
+      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/stats.svg" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/recent-langs.svg" />
+      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/recent-langs.svg" alt="Languages in Use" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/contributions.svg" />
+      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/contributions.svg" alt="Contributions" />
+    </picture>
+  </a>
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/top-langs.svg" />
+      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/maing" alt="Languages" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/activity.svg" />
+      <img width="886" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/activity.svg" alt="Contribution Activity" />
+    </picture>
+  </a>
+</p>
 
 ---
 
