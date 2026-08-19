@@ -40,10 +40,19 @@ A Computer Engineer focused on building user-centric, scalable web and mobile so
       <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/recent-langs.svg" alt="Languages in Use" />
     </picture>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/flashomer/githupStats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/contributions.svg" />
-      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/contributions.svg" alt="Contributions" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontentin/generated/dark/contributions.svg" />
+      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/mains.svg" alt="Contributions" />
+    </picture>
+  </a>
+  <a href="https://github.com/flashomer/githupStats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/breakdown.svg" />
+      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/breakdown.svg" alt="Contribution Mix" />
     </picture>
   </a>
 </p>
@@ -51,7 +60,9 @@ A Computer Engineer focused on building user-centric, scalable web and mobile so
 <p align="center">
   <a href="https://github.com/flashomer/githupStats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/activity.svg" />
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/activity-compact.svg" />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/activity-compact.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontentin/generated/dark/activity.svg" />
       <img width="822" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/activity.svg" alt="Contribution Activity" />
     </picture>
   </a>
