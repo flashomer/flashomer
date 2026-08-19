@@ -31,28 +31,19 @@ A Computer Engineer focused on building user-centric, scalable web and mobile so
   <a href="https://github.com/flashomer/githupStats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/stats.svg" />
-      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/stats.svg" alt="GitHub Stats" />
+      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/stats.svg" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/flashomer/githupStats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/recent-langs.svg" />
-      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/recent-langs.svg" alt="Languages in Use" />
+      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/recent-langs.svg" alt="Languages in Use" />
     </picture>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/flashomer/githupStats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/contributions.svg" />
-      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/contributions.svg" alt="Contributions" />
-    </picture>
-  </a>
-  <a href="https://github.com/flashomer/githupStats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/top-langs.svg" />
-      <img width="435" src="https://raw.githubusercontent.com/flashomer/githupStats/maing" alt="Languages" />
+      <img width="405" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/contributions.svg" alt="Contributions" />
     </picture>
   </a>
 </p>
@@ -61,7 +52,7 @@ A Computer Engineer focused on building user-centric, scalable web and mobile so
   <a href="https://github.com/flashomer/githupStats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/dark/activity.svg" />
-      <img width="886" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/activity.svg" alt="Contribution Activity" />
+      <img width="822" src="https://raw.githubusercontent.com/flashomer/githupStats/main/generated/light/activity.svg" alt="Contribution Activity" />
     </picture>
   </a>
 </p>
